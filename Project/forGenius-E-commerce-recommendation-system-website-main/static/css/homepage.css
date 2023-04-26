@@ -1,0 +1,151 @@
+@font-face {
+    font-family: myFont;
+    src: url(seguiemj.ttf);
+}
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #d1dbda;
+    font-family: myFont;
+}
+header {
+    height: 100px;
+    width: 1000px;
+    margin: 0 auto;
+}
+main {
+    width: 1000px;
+    margin: 0 auto;
+}
+header #logo {
+    height: 50px;
+    float: left;
+    margin-top: 25px;
+}
+main #logo {
+    width: 800px;
+    margin-left: 100px;
+}
+button {
+    float: right;
+    border-radius: 4px;
+    padding: 2px 15px;
+    margin-left: 50px;
+    margin-top: 35px;
+    border-color: grey;
+    color: grey;
+    cursor: pointer;
+    
+}
+main .slogon {
+    text-align: center;
+    margin-left: 300px;
+}
+
+.search {
+    width: 1000px;
+    height: 50px;
+    margin: 50px auto;
+}
+
+.parent {
+    width: 100%;
+    height: 50px;
+    top: 4px;
+    position: relative;
+}
+
+.parent>input:first-of-type {
+    width: 585px;
+    height: 40px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    outline: none;
+    border-radius: 20px;
+    margin-left: 150px;
+    background-color:rgb(238, 238, 236);
+    padding-left: 10px;
+    margin-right: 5px;
+}
+
+.parent>input:first-of-type:focus {
+    border: 1px solid #786662;
+}
+
+.parent>input:last-of-type {
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    background:#786662;
+    color: #fff;
+    font-size: 16px;
+    outline: none;
+    border-radius: 20px;
+    border-color: #786662;
+    cursor: pointer;
+}
+
+.recommond {
+    width: 1000px;
+    height: 750px;
+    background-color: rgb(238, 238, 236);
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.retxt {
+    background-color:rgb(238, 238, 236);
+    font-size: 30px;
+    float: left;
+    width: 300px;
+    height: 400px;
+    padding-top: 170px;
+    padding-left: 50px;
+}
+
+.product {
+    height: 300px;
+    width: 150px;
+    background-color:rgb(238, 238, 236);
+    float: right;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.productPic{
+    width: 150px;
+    background-color:dimgray;
+}
+
+.proName{
+    background-color: rgb(238, 238, 236);
+    margin-left: 10px;
+}
+
+.dep {
+    background-color: rgb(238, 238, 236);
+    margin-left: 10px;
+    margin-right: 10px;
+    word-wrap: break-word;
+}
+
+footer {
+    background-color:rgb(12, 5, 0);
+    height: 200px;
+}
+
+.foot {
+    background-color:rgb(12, 5, 0);
+    color:rgb(238, 238, 236);
+    float: left;
+    font-size: 20px;
+    margin-top: 160px;
+    margin-left: 100px;
+}
+
+#logoFoot {
+    float: right;
+    background-color:rgb(12, 5, 0);
+    height: 200px;
+}
+

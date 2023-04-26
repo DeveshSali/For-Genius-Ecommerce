@@ -1,0 +1,86 @@
+Week 1
+Joined group 3900-w16a-forgenius
+Switch lab time since group number cannot solve timetable clash
+Start working on proposal
+Decided use VUE as front end
+Plan to have meetting of group every week
+Work on proposal's background existing works analyze
+
+Week 2
+Decided use Flask as back end
+Modified user story with group
+Come up with novel functionality
+Plan to draw the flow chart with Wenxin
+
+Week 3
+Finished flow chart
+Come up with second novel functionality
+Decided final UI design with group mumbers
+Start the sprint1 front end code
+Plan to start work on front end next week
+
+Week 4 front end
+Home basic base and functional code done
+Vue build done
+User log in, sing on, log out base functional code done
+User profile base and functional code done
+Product base code done
+Cart basic base and functional code done
+Address basic functional code done
+Improveed User log in, sing on, log out code
+Reset password base and functional code done
+Optimize router push
+Forgot password base code done
+Pcked up front end API code ready to connect
+
+Week 5 front end
+DEMO A and Retrospective A done
+API connected to backend with group meeting
+Optimize user log in and log out experience
+Interest functional code done
+Admin draft page done
+Address page all done
+Product view page done
+Add product to cart done
+Forgot password functional code done
+Plan to start the Sprint2 front end code next week
+
+Week 6 front end
+Start the Sprint2 front end code
+View products of cart code connected
+Edit products of cart code connected
+Remove products of cart code connected
+
+Week 7 front end
+Admin add product done
+Admin manage product done
+User order hisotry done
+Address select function of order page done
+Order page done
+Payment page done
+Address modified
+Cart page modified
+Product page modified
+
+Week 8 front end
+DEMO B and Retrospective B done
+Add sign up code connected with api
+Keep tring to optimize user experience
+Recommendation related with backend
+Plan to start the Sprint3 front end code next week
+
+Week 9 front end
+Start the Sprint3 front end code
+Go product done
+Search result done
+Order share done
+All picture related done
+Keep tring to optimize user experience
+Start to work on Final Report
+
+Week 10
+Improve report's functionality
+Add and imporve report's manual
+Emergency added admin view order
+Meeting with group to discuss demo
+Keep patching front end to improve demo experience and functionality

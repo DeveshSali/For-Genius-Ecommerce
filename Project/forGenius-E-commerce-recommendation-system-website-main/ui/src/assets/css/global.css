@@ -1,0 +1,54 @@
+/*global css*/
+
+html,
+body,
+#app{
+    height:100%;
+    margin: 0;
+    padding: 0;
+    background-color: #d1dbda;
+    font-family: Verdana, Tahoma, sans-serif;
+    width:100%;
+}
+
+/*Different button type*/
+.el-button--black:focus,
+.el-button--black:hover {
+  background: black;
+  border-color: black;
+  color: #fff;
+}
+.el-button--white:focus,
+.el-button--white:hover {
+  background: white;
+  border-color: black;
+  color: black;
+}
+
+.el-button--brown:focus,
+.el-button--brown:hover {
+  background:  #eededb;
+  border-color:  #eededb;
+  color: black;
+}
+
+.Form_logo{
+  height: 300px;
+  left: 1500px;
+  cursor: pointer;
+}
+
+/* table style */
+.table-label {
+  width:140px;
+}
+
+.table-content {
+  border: 0cm;
+  width:230px;
+}
+
+/* edit dialog fix page*/
+.editf{
+  position: fixed;
+}

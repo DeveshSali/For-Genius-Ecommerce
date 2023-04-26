@@ -1,0 +1,86 @@
+WEEK 1
+1. Joined to the group and we choose the e-commerce project.
+2. Joined the webcms group and jira. 
+3. Because one of our group members has a timetable clash, we need to switch from the original lab session H18A to another lab session W16A.
+4. Started to make proposal, I discussed with the team all technical details that we can use for the project and explore the availability of different technologies.
+5. Determined to use VUE as front-end technology.
+6. Planed to end all parts of purposal before Wed week3.
+
+WEEK 2
+1. Finalized our backend technical stacks (Django + SQLite).
+2. Planed to have team meeting at least 3 times a week.
+3. Continue to work on user stories and epics part of the proposal with my team.
+4. Had a meeting to check and fix all of the user stories with my team. 
+5. I finished all of the basic UI design for the first sprint and put the UI diagrams in purposal.
+6. We had meeting to discuss and determine the final version of the user stories and epics.
+
+WEEK 3
+1. I finished ER and Relational Model diagram and put them in the purposal.
+2. Had a meeting to discuss the final version of the puposal.
+3. Improved the flow chart diagram with Minghao Cai and Wenxin Ma.
+4. Improved the UML diagram with Kaiyu Chen and Tianchen Ma.
+5. Discussed with tutor about the our purposal and got a lot of feedback. 
+6. Improved the database layer of system architecture.
+7. We plan to start the sprint1 and finish sprint 1 before Monday of week4.
+
+Week 4
+1. I finished build the Django backend frame.
+2. I finished build the Django Sqlite database.
+3. I finished the backend part of the function "view product details" (user version).
+4. I finished the backend part of the function "get user interest to database".
+5. I finished the backend part of the function "user add the product to cart".
+
+Week 5
+1. We had a meeting to connect the backend and frontend, and improve something imperfect.
+2. Before the Demo A, we had a meeting to check everything is alright and have a rehearse for demo A.
+3. We discussed and finished the Retrospective A.
+4. We discussed the feedback from Yu, improve the points that Yu mentioned. 
+5. Then we assigned the new tasks (included the improvement and sprint2) to everyone and plan to finish sprint2 before the Monday of week7. 
+
+Week 6 
+1. I finished the backend part of the function "view cart". (cart management)
+2. I finished the backend part of the function "edit cart product quantity".(cart management)
+3. I finished the backend part of the function "remove cart product".(cart management)
+
+Week 7
+1. Kevin (Kaiyu Chen) wanted to rebuild the order part of database, but he met some issues and asked me about that. 
+   Then I fixed the database and rebuild the part.
+2. I finished the backend part of the function "view all order".
+3. We discussed and improved the Retrospective A based on Yu's feedback.
+4. We discussed the issues about the connection between frontend and backend, then fixed them.
+5. We planned to have the meeting on Week8 Monday and finished all thing in sprint2. And we also planned to start the final repornt on Week9.
+
+Week 8
+1. We had a meeting to connect the backend and frontend, and improve something imperfect.
+2. Before the Demo B, we had a meeting to check everything is alright and have a rehearse for demo B.
+3. We discussed and finished the Retrospective B.
+4. We discussed the feedback of Retrospective A from Yu, improve the points that Yu mentioned in Retrospective B. 
+5. Then we assigned the new tasks (included the improvement and sprint3) to everyone and plan to finish sprint3 in one week. 
+6. I finished the backend part of the function "change_username". (user information)
+7. I finished the backend part of the function "share_order". (Novel functionality)
+
+Week 9
+1. I wrote the description of the share order function.
+2. I finished the backend part of the function "get_search_reslut". (Search & search result)
+3. I improved some issues that Yu mentioned in demoB, improved the backend code to return product's picture in view order and cart function.
+4. We plan to start the final report and finish it before the deadline.
+5. I finished the ER diagram in final report.
+6. I finished improve the recommendation algorithm based on search, change it to get data via database instead of global variable.
+7. I finished add a sales data sorting function of admin product management in backend. Then the admin can sort the products based on sales data.
+8. I improved the search algorithm and after improving, the search can revieve multiple words split by space and do the search.
+9. I changed the layout of the admin product management page in frontend.
+10. I tested the project in VLAB and wirte the user manual (set up), user setup guid, readme.md to show how to set up the project (in VLAB).
+
+Week 10
+1. I fixed some bugs of the recommendation algorithm.
+2. I changed the layout of the search result page in frontend.
+3. We had the meeting and discussed about the sturcture of demo.
+4. I changed the layout of the search result page.
+5. I changed some button layout in the frontend.
+6. I improved the search algorithm in the backend.
+7. We had a meeting and checked all thing about demo.
+8. On Monday wk10, we found the admin cannot see all order, we didn't add this function to the project, 
+  but this function is mentioned by Specification of E-Commerce Recommender System, so we just simply add it. 
+  But we did not have enough time to improve this function's detail. 
+  This happened because we didn't notice that when we wrote the proposal and build the database. And this may impact the admin user's use experiences.
+ 9. On Wednesday wk10, we had meeting to check the demo again.

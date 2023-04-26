@@ -1,0 +1,80 @@
+WEEK 1
+Formed a group, We had a meeting to discuss which project to choose, at the same time we invited a new member to join our group.
+Join the webcms group and jira. swich from H18A to W16A
+Start to make proposal, I search the E-Commerce Recommender System imformation and write the background with Minghao.
+Determined to use VUE as front-end technology.
+
+WEEK 2
+We discuess the functional requirements of the project.And we begin to write the epic and user story.
+I write the User Authorization and Order section of user story. And I fixed the user story many times.
+We had meeting to discuss and determine the final version of the user story.
+I start to draw the flow chart with Minghao.
+
+
+WEEK 3
+I completed the flow chart with Minghao and discussed with the other group member about what needs to be improved, and modified the flow chart.
+We had a meet with totur and got the advice about proposal from tutor and improve the proposal.
+We assigned tasks based on sprint and workload and limitations. 
+
+WEEK 4
+I started to create front-end code with Minghao
+The VUE framework is set up
+Finished login, signup, logout, userprofile, product basic and function1 code.
+Packed up API and connected to backend
+Finished Address and forgotpassword base code
+Optimize router push
+Improve user experience
+We have meeting to discuss how the project going.
+
+WEEK 5
+Interest functional code done.
+Address add functional code done.
+Require users to double input passwords when users signup.
+Add check for data validation.
+Improve web page aesthetics.
+We have meeting to discuss how the project going.
+
+WEEK 6
+Change features according to Retrospective.
+Finish admin page.
+We have meeting to discuss how the project going.
+inprove the code style and quility to fix bugs.
+
+WEEK 7
+Manageproduct functional code done.
+Order functional code down.
+css code down.
+Add email check for sign up.
+Add picture for product.
+Improve web page aesthetics.
+We have meeting to discuss how the project going.
+
+WEEK8
+Home recommendation system done.
+Search functional code done.
+Finished userchange function.
+Finished Data cheak and validation.
+Improve user experience.
+We have meeting to discuss how the project going.
+
+WEEK9
+Change the pages layout.
+Plan to start report.
+I finished add a sales data sorting function of admin product management in frontend. Then the admin can sort the products based on sales data.
+I changed the layout of the admin product management page in frontend.
+Test in vlab and chage the code style let the page can have good performance in valab.
+Clear code and make it in a good structure and add the comment.
+We have meeting to discuss how the project going.
+
+WEEK10
+Improve the page aesthetics.
+Add the manage view order function.
+Change addressbook layout.
+Complete the final report, change background change flow chart and complete the user manual.
+Prepare demo meeting for discussion.
+Check and Debug for every function.
+
+
+
+
+
